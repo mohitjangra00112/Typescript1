@@ -1,0 +1,27 @@
+{
+  "name": "typescript1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node dist/index.js",
+    "dev":"npx ts-node src/index.ts",
+    "dev2":"npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitjangra00112/Typescript1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mohitjangra00112/Typescript1/issues"
+  },
+  "homepage": "https://github.com/mohitjangra00112/Typescript1#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
