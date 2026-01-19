@@ -1,4 +1,5 @@
 "use strict";
+// Index 1 
 Object.defineProperty(exports, "__esModule", { value: true });
 let abc = "Hello World";
 console.log(abc);
