@@ -8,7 +8,7 @@
 
 // ex 1  
 
-let response:any="42";   // the responnse shoould take type as string but still it is any 
+let response:any="42";   // the responnse should take type as string but still it is any 
 // so, it doesnot suggest function and we need to do forcefull assertion
 //  as type make sure it will be of that particular type
 

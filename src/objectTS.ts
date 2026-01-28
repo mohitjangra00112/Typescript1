@@ -93,4 +93,11 @@ const placeOrder = (order:Required<chaiOrder>)=>{
 placeOrder({
         name:"abcd",    //// We need to use both name and quantity else show error 
         quantity:20
-});                  
+});     
+
+
+
+
+
+
+
